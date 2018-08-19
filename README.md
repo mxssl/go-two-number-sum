@@ -1,5 +1,9 @@
 # Two Number Sum
 
+Time: O(n)
+
+Space: O(n)
+
 ```
 go test -v -cover
 === RUN   TestCase
